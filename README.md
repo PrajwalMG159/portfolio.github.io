@@ -1,4 +1,4 @@
-## Portfolio
+## AlgIBMic
 
 ### Hello, I'm Prajwal Mallikarjun Ganeshanavar 👋
 
