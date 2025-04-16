@@ -32,10 +32,10 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dd>Prakash Hegade</dd>
 <dt>University</dt>
 <dd>KLE Technological University</dd>
-<dt>Portfolio Domain</dt>
-<dd>https://prajwalmg159.github.io/portfolio.github.io/</dd>
+<dt>Portfolio Domain / Topic</dt>
+<dd>Juniper</dd>
 </dl>
 
 <br> 
-> “The only way to do great work is to love what you do.” – Steve Jobs
+> “If you love life, don’t waste time, for time is what life is made up of.” —Bruce Lee
 >
