@@ -33,7 +33,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dt>University</dt>
 <dd>KLE Technological University</dd>
 <dt>Portfolio Domain / Topic</dt>
-<dd>IBM</dd>
+<dd>LinkedIn</dd>
 </dl>
 
 <br> 
