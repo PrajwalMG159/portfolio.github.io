@@ -1,4 +1,4 @@
-## AlgLinic
+## AlgLinic A Comprehensive APS Portfolio
 
 <!--### Hello, I'm Prajwal Mallikarjun Ganeshanavar 👋
 
