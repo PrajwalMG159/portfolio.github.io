@@ -1,4 +1,4 @@
-## AlgIBMic
+## AlgLinic
 
 ### Hello, I'm Prajwal Mallikarjun Ganeshanavar 👋
 
