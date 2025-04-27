@@ -4,9 +4,9 @@
 
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
-## 🛠️ Projects
+<!--## 🛠️ Projects
 - **Project 1**: A short description of your project.
-- **Project 2**: A short description of another project.
+- **Project 2**: A short description of another project.--->
 
 ## 🚀 Skills
 - C++, Python
@@ -17,8 +17,8 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 - [GitHub](https://github.com/PrajwalMG159)
 - [LinkedIn](https://www.linkedin.com/in/prajwal-ganeshanavar-55484126a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-## Portfolio Topic
-![Project Screenshot](assets/image.jpg)
+<!-----## Portfolio Topic---->
+<!-----![Project Screenshot](assets/image.jpg) ----->
 <dl>
 <dt>Course Name</dt>
 <dd>Algorithmic Problem Solving</dd>
