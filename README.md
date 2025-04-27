@@ -1,14 +1,14 @@
 ## AlgLinic
 
-### Hello, I'm Prajwal Mallikarjun Ganeshanavar 👋
+<!--### Hello, I'm Prajwal Mallikarjun Ganeshanavar 👋
 
-I am passionate about technology and problem-solving. Here's a glimpse of my work:
+I am passionate about technology and problem-solving. Here's a glimpse of my work:-->
 
 <!--## 🛠️ Projects
 - **Project 1**: A short description of your project.
 - **Project 2**: A short description of another project.--->
 
-## 🚀 Skills
+<!--## 🚀 Skills
 - C++, Python
 - Data Structures and Algorithms
 - Kubernetes, Docker
@@ -16,7 +16,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 ## 🌐 Find Me Online
 - [GitHub](https://github.com/PrajwalMG159)
 - [LinkedIn](https://www.linkedin.com/in/prajwal-ganeshanavar-55484126a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
+-->
 <!-----## Portfolio Topic---->
 <!-----![Project Screenshot](assets/image.jpg) ----->
 <dl>
