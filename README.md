@@ -1,24 +1,5 @@
-## AlgLinic A Comprehensive APS Portfolio
+![image](https://github.com/user-attachments/assets/4c81bf37-1514-4208-8861-cc6913e27a8e)## AlgLinic A Comprehensive APS Portfolio
 
-<!--### Hello, I'm Prajwal Mallikarjun Ganeshanavar 👋
-
-I am passionate about technology and problem-solving. Here's a glimpse of my work:-->
-
-<!--## 🛠️ Projects
-- **Project 1**: A short description of your project.
-- **Project 2**: A short description of another project.--->
-
-<!--## 🚀 Skills
-- C++, Python
-- Data Structures and Algorithms
-- Kubernetes, Docker
-
-## 🌐 Find Me Online
-- [GitHub](https://github.com/PrajwalMG159)
-- [LinkedIn](https://www.linkedin.com/in/prajwal-ganeshanavar-55484126a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
--->
-<!-----## Portfolio Topic---->
-<!-----![Project Screenshot](assets/image.jpg) ----->
 <dl>
 <dt>Course Name</dt>
 <dd>Algorithmic Problem Solving</dd>
@@ -81,5 +62,24 @@ The ever-evolving landscape of social networking services necessitates continual
 <p style="text-align: justify;">
 3.To explore and implement algorithmic solutions that ensure streamlined and efficient services within LinkedIn’s ecosystem.
 </p>
+
+## Data Structures and Algorithms applicable
+
+## 1. Hire Candidates: Search and Research Members' Profiles and Hire the Right Candidates
+
+**Algorithm:** Graph Algorithms (Graph Traversal, BFS)
+<p style="text-align: justify;">
+<strong>Description:</strong> LinkedIn can help recruiters find and hire the right candidates by using graph traversal algorithms like BFS. Each user profile can be represented as a node in a graph, and connections between users as edges. Recruiters can search for candidates based on certain criteria, and BFS can be used to traverse through the connections to find potential candidates who match the job requirements. This enables recruiters to efficiently explore their extended network to find the best fit for their hiring needs.
+</p>
+<p style="text-align: justify;">
+<strong>Challenges:</strong> Managing a large, dynamic graph of user profiles and connections. Ensuring the privacy and security of user data while performing searches. Keeping the search results relevant and personalized based on the recruiter's preferences and job requirements.
+</p>
+![]([image](https://github.com/user-attachments/assets/6a92bedb-daf5-47e1-a44f-9adb55f66523))
+### Breadth-First Search (BFS)
+
+- **Time Complexity:** O(V + E), where V is the number of vertices and E is the number of edges in the graph.
+- **Space Complexity:** O(V), for storing the queue and the visited list.
+
+[Here is my code for BFS Algorithm](https://github.com/PrajwalMG159/portfolio.github.io/blob/main/codes/bfs.c)
 
 
