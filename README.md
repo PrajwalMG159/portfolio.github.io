@@ -84,4 +84,26 @@ The ever-evolving landscape of social networking services necessitates continual
 
 [Here is my code for BFS Algorithm](https://github.com/PrajwalMG159/portfolio.github.io/blob/main/codes/bfs.c)
 
+## 2. Connection Recommendations
+**Algorithm:** Graph Algorithms (Graph Traversal, Community Detection).
+<p style="text-align: justify;">
+<strong>Description:</strong> LinkedIn can recommend connections to users by analyzing their current connections and suggesting new ones based on mutual connections and shared interests. Graph traversal algorithms like BFS and DFS can be used to explore and find potential connections within a user's network. Community detection algorithms can help identify clusters of users with similar profiles, enhancing the relevance of recommendations by focusing on users with shared professional interests or backgrounds.
+</p>
+**Challenges:** Managing large, dynamic graphs; ensuring privacy and security of user data.
+
+### Breadth-First Search (BFS)
+
+- **Time Complexity:** O(V + E), where V is the number of vertices and E is the number of edges in the graph.
+- **Space Complexity:** O(V), for storing the queue and the visited list.
+
+### Depth-First Search (DFS)
+
+- **Time Complexity:** O(V + E), where V is the number of vertices and E is the number of edges in the graph.
+- **Space Complexity:** O(V), for storing the recursion stack or iterative stack and the visited list.
+
+![](https://github.com/PrajwalMG159/portfolio.github.io/blob/main/assets/DFS.png)
+
+[Here is my code for BFS Algorithm](https://github.com/PrajwalMG159/portfolio.github.io/blob/main/codes/bfs.c)
+
+[Here is my code for DFS Algorithm](https://github.com/PrajwalMG159/portfolio.github.io/blob/main/codes/dfs1.c)
 
