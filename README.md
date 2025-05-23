@@ -74,7 +74,9 @@ The ever-evolving landscape of social networking services necessitates continual
 <p style="text-align: justify;">
 <strong>Challenges:</strong> Managing a large, dynamic graph of user profiles and connections. Ensuring the privacy and security of user data while performing searches. Keeping the search results relevant and personalized based on the recruiter's preferences and job requirements.
 </p>
-![image]((https://github.com/user-attachments/assets/6a92bedb-daf5-47e1-a44f-9adb55f66523))
+
+![](https://github.com/user-attachments/assets/6a92bedb-daf5-47e1-a44f-9adb55f66523)
+
 ### Breadth-First Search (BFS)
 
 - **Time Complexity:** O(V + E), where V is the number of vertices and E is the number of edges in the graph.
