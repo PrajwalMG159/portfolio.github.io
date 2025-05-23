@@ -39,6 +39,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <br> 
 > “If you love life, don’t waste time, for time is what life is made up of.” —Bruce Lee>
 
+* * *
 
 #### Note:
 This page hosts:
@@ -60,3 +61,5 @@ LinkedIn is a leading professional networking service, providing a platform for 
 <p style="text-align: justify;">
 This portfolio showcases how algorithms can be applied within LinkedIn’s ecosystem. Each use case illustrates how specific DSA principles can solve practical challenges faced by a social networking service like LinkedIn, bridging the gap between theory and application. Explore the use cases to see how DSA and Algorithmic Problem Solving techniques are used to enhance performance, reliability, and efficiency in a real-world context.
 </p>
+
+
