@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4c81bf37-1514-4208-8861-cc6913e27a8e)## AlgLinic A Comprehensive APS Portfolio
+## AlgLinic A Comprehensive APS Portfolio
 
 <dl>
 <dt>Course Name</dt>
