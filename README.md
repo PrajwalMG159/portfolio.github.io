@@ -36,8 +36,6 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dd>LinkedIn</dd>
 </dl>
 
-<br> 
-
 * * *
 
 > “If you love life, don’t waste time, for time is what life is made up of.” —Bruce Lee>
