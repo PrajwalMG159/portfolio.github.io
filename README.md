@@ -37,5 +37,26 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 </dl>
 
 <br> 
-> “If you love life, don’t waste time, for time is what life is made up of.” —Bruce Lee
->
+> “If you love life, don’t waste time, for time is what life is made up of.” —Bruce Lee>
+
+
+#### Note:
+This page hosts:
+
+1. **Introduction**
+2. **Why Portfolio**
+3. **Objectives**
+4. **Data Structures and Algorithms applicable**
+
+
+* * *
+
+## Introduction
+<p style="text-align: justify;">
+LinkedIn is a leading professional networking service, providing a platform for professionals to connect, share, and grow their careers. In today’s data-driven world, the efficiency and effectiveness of social networking services can be significantly enhanced through the strategic application of data structures and algorithms. This portfolio project delves into the core functionalities of LinkedIn’s diverse services, applying the theoretical knowledge and practical skills acquired from the course Algorithmic Problem Solving (APS). By using advanced algorithmic techniques and data structures, this project aims to propose solutions to real-world business applications. From optimizing connection recommendations for improved relevance to enhancing content delivery for better engagement, the potential for enhancement is vast.
+</p>
+
+![LinkedIn Image](https://raw.githubusercontent.com/sanjayranjanagi/sanjayranjanagi.github.io/main/Images/linkedin.png)
+<p style="text-align: justify;">
+This portfolio showcases how algorithms can be applied within LinkedIn’s ecosystem. Each use case illustrates how specific DSA principles can solve practical challenges faced by a social networking service like LinkedIn, bridging the gap between theory and application. Explore the use cases to see how DSA and Algorithmic Problem Solving techniques are used to enhance performance, reliability, and efficiency in a real-world context.
+</p>
