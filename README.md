@@ -47,7 +47,8 @@ This portfolio showcases how algorithms can be applied within LinkedIn’s ecosy
 
 **Market Analysis of Linkedin**
 ![](https://github.com/PrajwalMG159/portfolio.github.io/blob/main/assets/market_analysis.jpg?raw=true)
-
+<p style="text-align: justify;">
+  
 ## Need of Portfolio
 <p style="text-align: justify;">
 The ever-evolving landscape of social networking services necessitates continual improvements in service management and user experience. LinkedIn, as a leading player in this industry, faces various operational challenges that can be addressed through the strategic application of data structures and algorithms. This portfolio is essential for several reasons. Firstly, optimizing service efficiency is crucial; efficient connection recommendations and content delivery can maximize user engagement and satisfaction. By exploring advanced algorithmic solutions, this portfolio aims to enhance these processes, resulting in a more personalized and efficient service. Additionally, the transition from theoretical knowledge to practical application is a critical step in the learning process. This portfolio provides an opportunity to apply concepts learned in Data Structures and Algorithms (DSA) and Algorithmic Problem Solving (APS) courses to real-world problems, thereby solidifying understanding and skills.
@@ -76,7 +77,8 @@ The ever-evolving landscape of social networking services necessitates continual
 </p>
 
 ![](https://github.com/user-attachments/assets/6a92bedb-daf5-47e1-a44f-9adb55f66523)
-
+<p style="text-align: justify;">
+  
 ### Breadth-First Search (BFS)
 
 - **Time Complexity:** O(V + E), where V is the number of vertices and E is the number of edges in the graph.
@@ -102,6 +104,7 @@ The ever-evolving landscape of social networking services necessitates continual
 - **Space Complexity:** O(V), for storing the recursion stack or iterative stack and the visited list.
 
 ![](https://github.com/PrajwalMG159/portfolio.github.io/blob/main/assets/dfs.jpg)
+<p style="text-align: justify;">
 
 [Here is my code for BFS Algorithm](https://github.com/PrajwalMG159/portfolio.github.io/blob/main/codes/bfs.c)
 
