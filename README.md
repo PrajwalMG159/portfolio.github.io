@@ -135,6 +135,7 @@ The ever-evolving landscape of social networking services necessitates continual
 <p style="text-align: justify;">
 <strong>Description:</strong> LinkedIn can recommend skills to users based on patterns in skills that are often endorsed together. By using a trie to store these associations, the platform can efficiently query and suggest additional skills that complement a user's existing endorsements. This helps users enhance their profiles by adding relevant skills that are valued in their professional network.
 </p>
+
 **Challenges:** Ensuring recommendations are relevant and not overwhelming users with too many suggestions.
 
 ### Trie
