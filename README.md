@@ -1,4 +1,4 @@
-## AlgLinic A Comprehensive APS Portfolio
+![image](https://github.com/user-attachments/assets/137460b1-d1d0-44b6-bdc4-dcc231ce1667)## AlgLink A Comprehensive APS Portfolio
 
 <dl>
 <dt>Course Name</dt>
@@ -39,14 +39,14 @@ This page hosts:
 LinkedIn is a leading professional networking service, providing a platform for professionals to connect, share, and grow their careers. In today’s data-driven world, the efficiency and effectiveness of social networking services can be significantly enhanced through the strategic application of data structures and algorithms. This portfolio project delves into the core functionalities of LinkedIn’s diverse services, applying the theoretical knowledge and practical skills acquired from the course Algorithmic Problem Solving (APS). By using advanced algorithmic techniques and data structures, this project aims to propose solutions to real-world business applications. From optimizing connection recommendations for improved relevance to enhancing content delivery for better engagement, the potential for enhancement is vast.
 </p>
 
-![LinkedIn Image](https://github.com/PrajwalMG159/portfolio.github.io/blob/main/assets/Introduction.png?raw=true)
+![LinkedIn Image](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/assets/Introduction.png)
 <p style="text-align: justify;">
 This portfolio showcases how algorithms can be applied within LinkedIn’s ecosystem. Each use case illustrates how specific DSA principles can solve practical challenges faced by a social networking service like LinkedIn, bridging the gap between theory and application. Explore the use cases to see how DSA and Algorithmic Problem Solving techniques are used to enhance performance, reliability, and efficiency in a real-world context.
 </p>
 
 
 ***Market Analysis of Linkedin***
-![](https://github.com/PrajwalMG159/portfolio.github.io/blob/main/assets/market_analysis.jpg?raw=true)
+![](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/assets/market_analysis.jpg)
 
 
 ## Need of Portfolio
@@ -77,14 +77,14 @@ The ever-evolving landscape of social networking services necessitates continual
 <strong>Challenges:</strong> Managing a large, dynamic graph of user profiles and connections. Ensuring the privacy and security of user data while performing searches. Keeping the search results relevant and personalized based on the recruiter's preferences and job requirements.
 </p>
 
-![](https://github.com/user-attachments/assets/6a92bedb-daf5-47e1-a44f-9adb55f66523)
+![](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/assets/bfs.jpg)
   
 ### Breadth-First Search (BFS)
 
 - **Time Complexity:** O(V + E), where V is the number of vertices and E is the number of edges in the graph.
 - **Space Complexity:** O(V), for storing the queue and the visited list.
 
-[Here is my code for BFS Algorithm](https://github.com/PrajwalMG159/portfolio.github.io/blob/main/codes/bfs.c)
+[Here is my code for BFS Algorithm](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/codes/Bfs.c)
 
 ## 2. Connection Recommendations
 **Algorithm:** Graph Algorithms (Graph Traversal, Community Detection).
@@ -104,11 +104,11 @@ The ever-evolving landscape of social networking services necessitates continual
 - **Time Complexity:** O(V + E), where V is the number of vertices and E is the number of edges in the graph.
 - **Space Complexity:** O(V), for storing the recursion stack or iterative stack and the visited list.
 
-![](https://github.com/PrajwalMG159/portfolio.github.io/raw/main/assets/DFS.png)
+![](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/assets/DFS.png)
 
-[Here is my code for BFS Algorithm](https://github.com/PrajwalMG159/portfolio.github.io/blob/main/codes/bfs.c)
+[Here is my code for BFS Algorithm](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/codes/Bfs.c)
 
-[Here is my code for DFS Algorithm](https://github.com/PrajwalMG159/portfolio.github.io/blob/main/codes/dfs1.c)
+[Here is my code for DFS Algorithm](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/codes/Dfs.c)
 
 ## 3. Job Recommendations
 **Algorithm:** Trie.
@@ -128,7 +128,7 @@ The ever-evolving landscape of social networking services necessitates continual
   - Deletion: O(L), where L is the length of the word.
 - **Space Complexity:** O(ALPHABET_SIZE * L * N), where ALPHABET_SIZE is the size of the alphabet (e.g., 26 for lowercase English letters), L is the average length of the words, and N is the number of words.
 
-[Here is my code for Trie data structure](https://github.com/PrajwalMG159/portfolio.github.io/blob/main/codes/Trie.cpp)
+[Here is my code for Trie data structure](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/codes/Trie.cpp)
 
 ## 4. Skill Endorsements and Recommendations 
 
@@ -147,7 +147,7 @@ The ever-evolving landscape of social networking services necessitates continual
   - Deletion: O(L), where L is the length of the word.
 - **Space Complexity:** O(ALPHABET_SIZE * L * N), where ALPHABET_SIZE is the size of the alphabet (e.g., 26 for lowercase English letters), L is the average length of the words, and N is the number of words.
 
-[Here is my code for Trie data structure](https://github.com/PrajwalMG159/portfolio.github.io/blob/main/codes/Trie.cpp)
+[Here is my code for Trie data structure](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/codes/Trie.cpp)
 
 ## 5. Content Personalization
 **Algorithm:** Dijkstra's Algorithm (for finding shortest path in a graph of content connections).
@@ -165,10 +165,30 @@ The ever-evolving landscape of social networking services necessitates continual
 - **Time Complexity:** O(V^2) with a simple implementation, O(E + V log V) with a priority queue or Fibonacci heap, where V is the number of vertices and E is the number of edges.
 - **Space Complexity:** O(V + E), for storing the graph and additional structures like distance and priority queue.
 
-[Here is my code for Dijkstras Algorithm](https://github.com/PrajwalMG159/portfolio.github.io/blob/main/codes/Dijkstra's.c).
+[Here is my code for Dijkstras Algorithm](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/codes/Dijkstra's.c).
+
+## 6. Personalized Email and Notification Campaigns
+**Algorithm:** Hash Table (for fast lookup and segmentation)
+<p style="text-align: justify;">
+<strong>Description:</strong> LinkedIn can use a hash table to efficiently segment users based on their profiles, behaviors, and preferences. By hashing user attributes (such as job title, industry, activity level, etc.), LinkedIn can quickly categorize users into different segments for targeted email and notification campaigns. Hash tables allow for constant time complexity for both insertion and retrieval operations, making them ideal for handling large datasets and providing fast access to user segments.
+</p>
+<p style="text-align: justify;">
+<strong>Challenges:</strong> Ensuring the hash function is well-designed to minimize collisions and distribute users evenly across the hash table. Managing dynamic updates to user profiles and preferences, which requires efficient rehashing or re-segmentation to keep the data current.
+</p>
+
+### Hash Table
+![](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/assets/Hashing.gif)
+
+- **Time Complexity:**
+
+  - Insertion: O(1), for adding a user to a segment.
+  - Lookup: O(1), for retrieving users from a segment
+
+[Here is code for Hash Table](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/codes/Hash_table.cpp)
 
 
-## 6.Job Hunting: Apply for Jobs Advertised on LinkedIn
+
+## 7.Job Hunting: Apply for Jobs Advertised on LinkedIn
 
 **Algorithm: Trie**
 <p style="text-align: justify;">
@@ -186,4 +206,4 @@ The ever-evolving landscape of social networking services necessitates continual
   - Deletion: O(L), where L is the length of the word.
 - **Space Complexity:** O(ALPHABET_SIZE * L * N), where ALPHABET_SIZE is the size of the alphabet (e.g., 26 for lowercase English letters), L is the average length of the words, and N is the number of words.
   
-[Here is my code for Trie data structure](https://github.com/PrajwalMG159/portfolio.github.io/blob/main/codes/Trie.cpp)
+[Here is my code for Trie data structure](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/codes/Trie.cpp)
