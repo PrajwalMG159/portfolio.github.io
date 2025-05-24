@@ -128,3 +128,22 @@ The ever-evolving landscape of social networking services necessitates continual
 - **Space Complexity:** O(ALPHABET_SIZE * L * N), where ALPHABET_SIZE is the size of the alphabet (e.g., 26 for lowercase English letters), L is the average length of the words, and N is the number of words.
 
 [Here is my code for Trie data structure](https://github.com/PrajwalMG159/portfolio.github.io/blob/main/codes/Trie.cpp)
+
+## 4. Skill Endorsements and Recommendations 
+
+**Algorithm:** Association Rule Mining (Using Trie for storing and querying associations).
+<p style="text-align: justify;">
+<strong>Description:</strong> LinkedIn can recommend skills to users based on patterns in skills that are often endorsed together. By using a trie to store these associations, the platform can efficiently query and suggest additional skills that complement a user's existing endorsements. This helps users enhance their profiles by adding relevant skills that are valued in their professional network.
+</p>
+**Challenges:** Ensuring recommendations are relevant and not overwhelming users with too many suggestions.
+
+### Trie
+
+- **Time Complexity:**
+  - Insertion: O(L), where L is the length of the word.
+  - Search: O(L), where L is the length of the word.
+  - Deletion: O(L), where L is the length of the word.
+- **Space Complexity:** O(ALPHABET_SIZE * L * N), where ALPHABET_SIZE is the size of the alphabet (e.g., 26 for lowercase English letters), L is the average length of the words, and N is the number of words.
+
+[Here is my code for Trie data structure](https://github.com/PrajwalMG159/portfolio.github.io/blob/main/codes/Trie.cpp)
+
