@@ -148,7 +148,7 @@ The ever-evolving landscape of social networking services necessitates continual
 
 [Here is my code for Trie data structure](https://github.com/PrajwalMG159/portfolio.github.io/blob/main/codes/Trie.cpp)
 
-## 6.Job Hunting: Apply for Jobs Advertised on LinkedIn
+## 5.Job Hunting: Apply for Jobs Advertised on LinkedIn
 
 **Algorithm: Trie**
 <p style="text-align: justify;">
