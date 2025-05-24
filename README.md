@@ -148,3 +148,22 @@ The ever-evolving landscape of social networking services necessitates continual
 
 [Here is my code for Trie data structure](https://github.com/PrajwalMG159/portfolio.github.io/blob/main/codes/Trie.cpp)
 
+## 6.Job Hunting: Apply for Jobs Advertised on LinkedIn
+
+**Algorithm: Trie**
+<p style="text-align: justify;">
+<strong>Description:</strong> LinkedIn can recommend jobs by storing job titles and user searches in a trie structure. This allows for efficient retrieval of job recommendations based on user input. When a user searches for job titles or keywords, the trie can quickly match and suggest relevant job postings. This helps users find suitable job opportunities more efficiently, improving their job hunting experience on LinkedIn.
+</p>
+<p style="text-align: justify;">
+<strong>Challenges:</strong> Efficiently storing and searching a large number of job titles. Managing the dynamic nature of job postings and searches as new jobs are added and old ones are removed or filled. Ensuring that the recommendations remain relevant and personalized to the user's career interests and skills.
+</p>
+
+### Trie
+
+- **Time Complexity:**
+  - Insertion: O(L), where L is the length of the word.
+  - Search: O(L), where L is the length of the word.
+  - Deletion: O(L), where L is the length of the word.
+- **Space Complexity:** O(ALPHABET_SIZE * L * N), where ALPHABET_SIZE is the size of the alphabet (e.g., 26 for lowercase English letters), L is the average length of the words, and N is the number of words.
+  
+[Here is my code for Trie data structure](https://github.com/PrajwalMG159/portfolio.github.io/blob/main/codes/Trie.cpp)
