@@ -148,7 +148,26 @@ The ever-evolving landscape of social networking services necessitates continual
 
 [Here is my code for Trie data structure](https://github.com/PrajwalMG159/portfolio.github.io/blob/main/codes/Trie.cpp)
 
-## 5.Job Hunting: Apply for Jobs Advertised on LinkedIn
+## 5. Content Personalization
+**Algorithm:** Dijkstra's Algorithm (for finding shortest path in a graph of content connections).
+<p style="text-align: justify;">
+<strong>Description:</strong> LinkedIn can use Dijkstra's Algorithm to rank content based on the shortest path to user interests and connections. This algorithm helps determine the most relevant articles, posts, and job listings for each user by considering their unique preferences and network. This ensures that users see content that is most pertinent to their professional goals and interests.
+</p>
+<p style="text-align: justify;">
+<strong>Challenges:</strong> Ensuring timely updates to rankings, maintaining relevance and diversity of content.
+</p>
+
+### Dijkstra's Algorithm
+![](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/assets/Dijkstra's.gif)
+
+
+- **Time Complexity:** O(V^2) with a simple implementation, O(E + V log V) with a priority queue or Fibonacci heap, where V is the number of vertices and E is the number of edges.
+- **Space Complexity:** O(V + E), for storing the graph and additional structures like distance and priority queue.
+
+[Here is my code for Dijkstras Algorithm](https://github.com/PrajwalMG159/portfolio.github.io/blob/main/codes/Dijkstra's.c).
+
+
+## 6.Job Hunting: Apply for Jobs Advertised on LinkedIn
 
 **Algorithm: Trie**
 <p style="text-align: justify;">
