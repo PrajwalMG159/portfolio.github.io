@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/137460b1-d1d0-44b6-bdc4-dcc231ce1667)## AlgLink A Comprehensive APS Portfolio
+## AlgLink A Comprehensive APS Portfolio
 
 <dl>
 <dt>Course Name</dt>
