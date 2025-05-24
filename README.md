@@ -109,3 +109,21 @@ The ever-evolving landscape of social networking services necessitates continual
 
 [Here is my code for DFS Algorithm](https://github.com/PrajwalMG159/portfolio.github.io/blob/main/codes/dfs1.c)
 
+## 3. Job Recommendations
+**Algorithm:** Trie.
+<p style="text-align: justify;">
+<strong>Description:</strong> LinkedIn can recommend jobs by storing job titles and user searches in a trie structure, allowing for efficient retrieval of job recommendations based on user input. The trie can quickly match job titles with user search terms, providing relevant job postings in real-time. This ensures that users are presented with job opportunities that closely align with their skills and interests.
+<strong>Challenges:</strong> Efficiently storing and searching a large number of job titles.
+</p>
+
+### Trie
+
+![](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/assets/trie.png)
+
+- **Time Complexity:**
+  - Insertion: O(L), where L is the length of the word.
+  - Search: O(L), where L is the length of the word.
+  - Deletion: O(L), where L is the length of the word.
+- **Space Complexity:** O(ALPHABET_SIZE * L * N), where ALPHABET_SIZE is the size of the alphabet (e.g., 26 for lowercase English letters), L is the average length of the words, and N is the number of words.
+
+[Here is my code for Trie data structure](https://github.com/PrajwalMG159/portfolio.github.io/blob/main/codes/Trie.cpp)
