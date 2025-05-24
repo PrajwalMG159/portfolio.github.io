@@ -103,7 +103,7 @@ The ever-evolving landscape of social networking services necessitates continual
 - **Time Complexity:** O(V + E), where V is the number of vertices and E is the number of edges in the graph.
 - **Space Complexity:** O(V), for storing the recursion stack or iterative stack and the visited list.
 
-![](https://github.com/PrajwalMG159/portfolio.github.io/blob/main/assets/DFS.png)
+![](https://github.com/PrajwalMG159/portfolio.github.io/raw/main/assets/DFS.png)
 
 [Here is my code for BFS Algorithm](https://github.com/PrajwalMG159/portfolio.github.io/blob/main/codes/bfs.c)
 
