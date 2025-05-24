@@ -31,6 +31,8 @@ This page hosts:
 2. **Why Portfolio**
 3. **Objectives**
 4. **Data Structures and Algorithms applicable**
+5. **Learnings and Key Takeaways**
+6. **References**
 
 
 * * *
