@@ -208,3 +208,17 @@ The ever-evolving landscape of social networking services necessitates continual
 - **Space Complexity:** O(ALPHABET_SIZE * L * N), where ALPHABET_SIZE is the size of the alphabet (e.g., 26 for lowercase English letters), L is the average length of the words, and N is the number of words.
   
 [Here is my code for Trie data structure](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/codes/Trie.cpp)
+
+## Learnings and Key Takeaways
+<p style="text-align: justify;">
+This portfolio demonstrates how selecting appropriate data structures and algorithms can address specific business challenges across various LinkedIn functionalities. Each use case details the application of suitable algorithms, outlines the challenges, highlights the benefits, and emphasizes design techniques tailored to LinkedIn's services. It shows how algorithms learned in APS and DSA classes can be directly applied to practical problems on LinkedIn and focuses on efficiency and practicality.
+</p>
+<p style="text-align: justify;">
+By linking theory to practice, this portfolio provides insights into choosing the best solutions for real-world issues on LinkedIn. It illustrates the significant impact that well-chosen algorithms and data structures can have on improving LinkedIn's services, such as optimizing connection recommendations, enhancing content delivery, and personalizing job recommendations. The portfolio emphasizes the importance of understanding these concepts to drive innovation and efficiency on LinkedIn, ultimately contributing to a more engaging and effective professional networking platform.
+</p>
+
+## References
+
+[1] Sebastian De Lima, “A quick explanation of DFS & BFS (Depth First Search & Breadth-First Search)”, Medium, [https://medium.com/analytics-vidhya/a-quick-explanation-of-dfs-bfs-depth-first-search-breadth-first-search-b9ef4caf952c](https://medium.com/analytics-vidhya/a-quick-explanation-of-dfs-bfs-depth-first-search-breadth-first-search-b9ef4caf952c)
+
+[2] dijkstras algorithm [https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm#:~:text=Dijkstra's%20algorithm%20is%20commonly%20used,)%20are%20monotonically%20non%2Ddecreasing.](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm#:~:text=Dijkstra's%20algorithm%20is%20commonly%20used,)%20are%20monotonically%20non%2Ddecreasing.)
