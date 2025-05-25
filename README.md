@@ -223,7 +223,7 @@ The ever-evolving landscape of social networking services necessitates continual
 
 [Here is my code for Max-Heap](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/codes/Priority_Queues.cpp)
 
-## 9. Tracking Time-based User Engagement
+## 8. Tracking Time-based User Engagement
 
 **Algorithm: Fenwick Tree (Binary Indexed Tree)**
 <p style="text-align: justify;">
@@ -239,7 +239,7 @@ The ever-evolving landscape of social networking services necessitates continual
 - **Space Complexity:**
   - O(N) (where N is the max time units tracked, e.g., days or hours).
   
-[Here is my code for Trie data structure](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/codes/Fenwick_tree.cpp)
+[Here is my code for Fenwick Tree (Binary Indexed Tree) data structure](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/codes/Fenwick_tree.cpp)
 
 
 
