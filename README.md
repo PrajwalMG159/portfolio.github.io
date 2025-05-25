@@ -223,10 +223,27 @@ The ever-evolving landscape of social networking services necessitates continual
 
 [Here is my code for Max-Heap](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/codes/Priority_Queues.cpp)
 
- 
+## 9. Tracking Time-based User Engagement
+
+**Algorithm: Fenwick Tree (Binary Indexed Tree)**
+<p style="text-align: justify;">
+<strong>Description:</strong> LinkedIn can track user engagement (likes, comments, shares) over time to analyze trends and optimize content delivery. A Fenwick Tree (or Binary Indexed Tree) efficiently records engagement metrics in real-time, computes cumulative engagement over any time window (e.g., "How many likes in the past 7 days?") and supports dynamic updates (O(log N)) and range queries (O(log N)). Use cases include detecting trending content by identifying posts with sudden engagement spikes, visualizing user activity through weekly or monthly engagement dashboards, and monitoring ad performance by tracking click-through rates over specific time periods. </p>
+<p style="text-align: justify;">
+<strong>Challenges:</strong> A key challenge is processing millions of interactions per second, demanding low-latency, high-throughput systems. Another is balancing data granularity with storage costs i.e., finer metrics increase insight but also data volume and infrastructure load. </p>
+
+### Fenwick Tree (Binary Indexed Tree)
+![](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/assets/Fenwick%20Tree.png)
+- **Time Complexity:**
+  - Update (Add engagement): O(log N)
+  - Query (Get total engagement in range [L, R]): O(log N)
+- **Space Complexity:**
+  - O(N) (where N is the max time units tracked, e.g., days or hours).
+  
+[Here is my code for Trie data structure](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/codes/Fenwick_tree.cpp)
 
 
-## 8. Job Hunting: Apply for Jobs Advertised on LinkedIn
+
+## 9. Job Hunting: Apply for Jobs Advertised on LinkedIn
 
 **Algorithm: Trie**
 <p style="text-align: justify;">
