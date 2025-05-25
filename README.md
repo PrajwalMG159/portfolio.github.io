@@ -103,11 +103,11 @@ The ever-evolving landscape of social networking services necessitates continual
 - **Space Complexity:** O(V), for storing the queue and the visited list.
 
 ### Depth-First Search (DFS)
+![](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/assets/DFS.png)
 
 - **Time Complexity:** O(V + E), where V is the number of vertices and E is the number of edges in the graph.
 - **Space Complexity:** O(V), for storing the recursion stack or iterative stack and the visited list.
 
-![](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/assets/DFS.png)
 
 [Here is my code for BFS Algorithm](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/codes/Bfs.c)
 
@@ -190,8 +190,43 @@ The ever-evolving landscape of social networking services necessitates continual
 [Here is code for Hash Table](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/codes/Hash_table.cpp)
 
 
+## 7. Feed Ranking (Prioritizing Posts in User’s Feed)
 
-## 7.Job Hunting: Apply for Jobs Advertised on LinkedIn
+**Algorithm: PageRank (Graph Algorithm), Priority Queue (Heap)**
+
+<p style="text-align: justify;">
+<strong>Description:</strong> LinkedIn’s feed ranking system determines the order in which posts appear on a user’s feed based on relevance, engagement, and social connections. The algorithms used are PageRank to measure influence of posts based on likes, comments, and shares, and Priority Queue (Max-Heap) to dynamically rank and serve the most relevant posts in real-time. The system considers factors such as user engagement history (likes, comments, shares), post recency (newer posts get higher priority), connection strength (posts from close connections appear first).
+</p>
+<p style="text-align: justify;">
+<strong>Challenges:</strong> Ensuring real-time updates to reflect new interactions instantly, avoiding bias towards viral content to maintain diversity, and scaling the system to deliver fast, personalized feeds to millions of users efficiently.</p>
+
+### PageRank (Graph Algorithm)
+
+![](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/assets/Pagerank.gif)
+
+- **Time Complexity:**
+  - O(K * E) per iteration, where K is the number of iterations and E is the number of edges.
+- **Space Complexity:**
+  - O(V + E), where V is the number of vertices (users/posts) and E is the number of edges (interactions).
+
+[Here is my code for Pagerank](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/codes/Pagerank.cpp)
+
+### Priority Queue (Max-Heap)
+![](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/assets/Priority_Queue.gif)
+
+- **Time Complexity:**
+  - Insertion (O(log N))
+  - Extraction (O(log N))
+  - Peek (O(1))
+- **Space Complexity:**
+  - O(N) (stores feed items in memory).
+
+[Here is my code for Max-Heap](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/codes/Priority_Queues.cpp)
+
+ 
+
+
+## 8. Job Hunting: Apply for Jobs Advertised on LinkedIn
 
 **Algorithm: Trie**
 <p style="text-align: justify;">
