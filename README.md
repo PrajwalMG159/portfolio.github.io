@@ -288,6 +288,7 @@ Privacy: Ensuring user data privacy and compliance with data protection regulati
 	- Update (New View): O(log N)
 	- Query (Total Views in Range [L, R]): O(log N)
 - **Space Complexity:** O(N) (where N = max time units, e.g., 365 days).
+
 [Here is my code for Fenwick Tree (Binary Indexed Tree) data structure](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/codes/Fenwick_tree.cpp)
 
 ### Breadth-First Search (BFS)
