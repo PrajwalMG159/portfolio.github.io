@@ -263,6 +263,20 @@ The ever-evolving landscape of social networking services necessitates continual
   
 [Here is my code for Trie data structure](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/codes/Trie.cpp)
 
+
+## 10.Social Selling Platform
+**Algorithm:** Collaborative Filtering and Graph Analysis
+<p style="text-align: justify;">
+<strong>Description:</strong> Collaborative filtering can be used to recommend products, services, and potential business connections to users based on their interactions, preferences, and behaviors. By analyzing patterns in user activity, LinkedIn can suggest relevant content and connections to enhance social selling efforts.
+Graph analysis algorithms can be employed to understand and leverage the network of connections between users and companies. By analyzing these connections, LinkedIn can identify key influencers, potential leads, and the most effective pathways for building business relationships.
+</p>
+<p style="text-align: justify;">
+<strong>Challenges:</strong> Data Volume: Handling the massive volume of user and company data efficiently.
+Privacy: Ensuring user data privacy and compliance with data protection regulations.
+</p>
+[Here is my code for Dijkstras Algorithm](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/codes/Dijkstra's.c).
+
+
 ## Learnings and Key Takeaways
 <p style="text-align: justify;">
 This portfolio demonstrates how selecting appropriate data structures and algorithms can address specific business challenges across various LinkedIn functionalities. Each use case details the application of suitable algorithms, outlines the challenges, highlights the benefits, and emphasizes design techniques tailored to LinkedIn's services. It shows how algorithms learned in APS and DSA classes can be directly applied to practical problems on LinkedIn and focuses on efficiency and practicality.
