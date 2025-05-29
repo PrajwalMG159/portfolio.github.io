@@ -276,6 +276,35 @@ Privacy: Ensuring user data privacy and compliance with data protection regulati
 </p>
 [Here is my code for Dijkstras Algorithm](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/codes/Dijkstra's.c).
 
+## 11. Profile View Analytics 
+**Algorithm:** Fenwick Tree (Binary Indexed Tree) + Graph Algorithms (BFS/DFS for Stalker Detection).
+<p style="text-align: justify;">
+<strong>Description:</strong> LinkedIn’s "Who Viewed Your Profile" feature allows users to track who visited their profile over time. To implement this case, Fenwick Tree (BIT) can be used to count daily/weekly profile views in O(log N) time per update, answer range queries (e.g., "How many views in the last 30 days?") in O(log N) time and Graph Algorithms (BFS/DFS) help detect stalkers (users who frequently visit but don’t connect), influential viewers (high-profile visitors who might signal job opportunities).
+</p>
+**Challenges:** Handling millions of profile views every second without delays, protecting the privacy of users who want their data anonymized and storing large amounts of historical data efficiently without making the database too large
+
+### Fenwick Tree (Binary Indexed Tree)
+- **Time Complexity:**
+	- Update (New View): O(log N)
+	- Query (Total Views in Range [L, R]): O(log N)
+- **Space Complexity:** O(N) (where N = max time units, e.g., 365 days).
+[Here is my code for Fenwick Tree (Binary Indexed Tree) data structure](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/codes/Fenwick_tree.cpp)
+
+### Breadth-First Search (BFS)
+
+- **Time Complexity:** O(V + E), where V is the number of vertices and E is the number of edges in the graph.
+- **Space Complexity:** O(V), for storing the queue and the visited list.
+
+### Depth-First Search (DFS)
+
+- **Time Complexity:** O(V + E), where V is the number of vertices and E is the number of edges in the graph.
+- **Space Complexity:** O(V), for storing the recursion stack or iterative stack and the visited list.
+
+[Here is my code for BFS Algorithm](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/codes/Bfs.c)
+
+[Here is my code for DFS Algorithm](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/codes/Dfs.c)
+
+
 
 ## Learnings and Key Takeaways
 <p style="text-align: justify;">
