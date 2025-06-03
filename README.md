@@ -306,6 +306,17 @@ Privacy: Ensuring user data privacy and compliance with data protection regulati
 [Here is my code for DFS Algorithm](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/codes/Dfs.c)
 
 
+## 12.Learning Recommendations (LinkedIn Learning)
+**Algorithm:** Directed Acyclic Graph (DAG), Topological Sort
+![](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/assets/DAG_with_Topological_Sort.gif)
+<p style="text-align: justify;">
+<strong>Description:</strong> LinkedIn Premium recommends personalized learning paths (e.g., "To become a Data Scientist, take these courses in order"). This requires modeling skill dependencies (e.g., "Learn Python before Machine Learning") as a DAG, topological sorting to generate a conflict-free course sequence.
+</p>
+<p style="text-align: justify;">
+<strong>Challenges:</strong> The key challenges include managing dynamic updates as new courses and skills reshape the DAG, balancing personalization between breadth for exploration and depth for mastery, and addressing the cold-start problem where new users begin without skill or engagement data.</p>
+
+[Here is my code](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/codes/DAG_and_Topological_Sort.cpp).
+
 
 ## Learnings and Key Takeaways
 <p style="text-align: justify;">
