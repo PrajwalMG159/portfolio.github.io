@@ -295,8 +295,7 @@ Figure 10: Binary Indexed Tree (Fenwick Tree) <a href="#ref10">[10]</a>
 Graph analysis algorithms can be employed to understand and leverage the network of connections between users and companies. By analyzing these connections, LinkedIn can identify key influencers, potential leads, and the most effective pathways for building business relationships.
 </p>
 <p style="text-align: justify;">
-<strong>Challenges:</strong> Data Volume: Handling the massive volume of user and company data efficiently.
-Privacy: Ensuring user data privacy and compliance with data protection regulations.
+<strong>Challenges:</strong> Efficiently managing large volumes of user and company data is challenging, while ensuring privacy and compliance with data protection laws is equally critical.
 </p>
 [Here is my code for Dijkstras Algorithm](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/codes/Dijkstra's.c).
 
@@ -305,7 +304,7 @@ Privacy: Ensuring user data privacy and compliance with data protection regulati
 <p style="text-align: justify;">
 <strong>Description:</strong> LinkedIn’s "Who Viewed Your Profile" feature allows users to track who visited their profile over time. To implement this case, Fenwick Tree (BIT) can be used to count daily/weekly profile views in O(log N) time per update, answer range queries (e.g., "How many views in the last 30 days?") in O(log N) time and Graph Algorithms (BFS/DFS) help detect stalkers (users who frequently visit but don’t connect), influential viewers (high-profile visitors who might signal job opportunities).
 </p>
-**Challenges:** Handling millions of profile views every second without delays, protecting the privacy of users who want their data anonymized and storing large amounts of historical data efficiently without making the database too large
+**Challenges:** Handling millions of profile views every second without delays, protecting the privacy of users who want their data anonymized and storing large amounts of historical data efficiently without making the database too large.
 
 ### Fenwick Tree (Binary Indexed Tree)
 - **Time Complexity:**
@@ -355,23 +354,23 @@ By linking theory to practice, this portfolio provides insights into choosing th
 </p>
 
 ## References
-<p id="ref1">[1] LinkedIn. <a href="https://rockcontent.com/blog/what-is-linkedin/" target="_blank">https://rockcontent.com/blog/what-is-linkedin/</a>. Accessed June 7, 2025.</p>
+<p id="ref1">[1] LinkedIn. <a href="https://rockcontent.com/blog/what-is-linkedin/" target="_blank">https://rockcontent.com/blog/what-is-linkedin/</a>. </p>
 
-<p id="ref2">[2] Market Analysis of LinkedIn. <a href="https://www.slideteam.net/linkedin-competitive-analysis-report-business-marketing-using-linkedin-ppt-demonstration.html" target="_blank">https://www.slideteam.net/linkedin-competitive-analysis-report-business-marketing-using-linkedin-ppt-demonstration.html</a>. Accessed June 7, 2025.</p>
+<p id="ref2">[2] Market Analysis of LinkedIn. <a href="https://www.slideteam.net/linkedin-competitive-analysis-report-business-marketing-using-linkedin-ppt-demonstration.html" target="_blank">https://www.slideteam.net/linkedin-competitive-analysis-report-business-marketing-using-linkedin-ppt-demonstration.html</a>.</p>
 
-<p id="ref3">[3] Breadth-First Search Traversal. <a href="https://www.freecodecamp.org/news/deep-dive-into-graph-traversals-227a90c6a261/" target="_blank">https://www.freecodecamp.org/news/deep-dive-into-graph-traversals-227a90c6a261/</a>. Accessed June 7, 2025.</p>
-<p id="ref4">[4] Depth-First Search Traversal. <a href="https://www.geeksforgeeks.org/dfs-traversal-of-a-tree-using-recursion/" target="_blank">https://www.geeksforgeeks.org/dfs-traversal-of-a-tree-using-recursion/</a>. Accessed June 7, 2025.</p>
+<p id="ref3">[3] Breadth-First Search Traversal. <a href="https://www.freecodecamp.org/news/deep-dive-into-graph-traversals-227a90c6a261/" target="_blank">https://www.freecodecamp.org/news/deep-dive-into-graph-traversals-227a90c6a261/</a>. </p>
+<p id="ref4">[4] Depth-First Search Traversal. <a href="https://www.geeksforgeeks.org/dfs-traversal-of-a-tree-using-recursion/" target="_blank">https://www.geeksforgeeks.org/dfs-traversal-of-a-tree-using-recursion/</a>. </p>
 
-<p id="ref5">[5] Trie - A Tree-based Data Structure. <a href="https://www.polarsparc.com/xhtml/Trie-1.html" target="_blank">https://www.polarsparc.com/xhtml/Trie-1.html</a>. Accessed June 7, 2025.</p>
+<p id="ref5">[5] Trie - A Tree-based Data Structure. <a href="https://www.polarsparc.com/xhtml/Trie-1.html" target="_blank">https://www.polarsparc.com/xhtml/Trie-1.html</a>.</p>
 
-<p id="ref6">[6] Graph Traversal Overview. <a href="https://blog.csdn.net/2301_81373791/article/details/144214160" target="_blank">https://blog.csdn.net/2301_81373791/article/details/144214160</a>. Accessed June 7, 2025.</p>
+<p id="ref6">[6] Graph Traversal Overview. <a href="https://blog.csdn.net/2301_81373791/article/details/144214160" target="_blank">https://blog.csdn.net/2301_81373791/article/details/144214160</a>. </p>
 
-<p id="ref7">[7] Hash Table. <a href="https://www.ilmuhacking.com/web-security/hashtable-collision-dos/" target="_blank">https://www.ilmuhacking.com/web-security/hashtable-collision-dos/</a>. Accessed June 7, 2025.</p>
+<p id="ref7">[7] Hash Table. <a href="https://www.ilmuhacking.com/web-security/hashtable-collision-dos/" target="_blank">https://www.ilmuhacking.com/web-security/hashtable-collision-dos/</a>. </p>
 
-<p id="ref8">[8] PageRank Algorithm for Graph Databases. <a href="https://memgraph.com/blog/pagerank-algorithm-for-graph-databases" target="_blank">https://memgraph.com/blog/pagerank-algorithm-for-graph-databases</a>. Accessed June 7, 2025.</p>
+<p id="ref8">[8] PageRank Algorithm for Graph Databases. <a href="https://memgraph.com/blog/pagerank-algorithm-for-graph-databases" target="_blank">https://memgraph.com/blog/pagerank-algorithm-for-graph-databases</a>. </p>
 
-<p id="ref9">[9] Heap Data Structure Explained. <a href="https://tipsmake.com/heap-data-structure" target="_blank">https://tipsmake.com/heap-data-structure</a>. Accessed June 7, 2025.</p>
+<p id="ref9">[9] Heap Data Structure Explained. <a href="https://tipsmake.com/heap-data-structure" target="_blank">https://tipsmake.com/heap-data-structure</a>. </p>
 
-<p id="ref10">[10] Binary Indexed Tree. <a href="https://www.enjoyalgorithms.com/blog/binary-indexed-tree" target="_blank">https://www.enjoyalgorithms.com/blog/binary-indexed-tree</a>. Accessed June 7, 2025.</p>
+<p id="ref10">[10] Binary Indexed Tree. <a href="https://www.enjoyalgorithms.com/blog/binary-indexed-tree" target="_blank">https://www.enjoyalgorithms.com/blog/binary-indexed-tree</a>.</p>
 
-<p id="ref11">[11] Kahn’s Algorithm for Topological Sort. <a href="https://mintuchel.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-kahn-%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC" target="_blank">https://mintuchel.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-kahn-%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC</a>. Accessed June 7, 2025.</p>
+<p id="ref11">[11] Kahn’s Algorithm for Topological Sort. <a href="https://mintuchel.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-kahn-%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC" target="_blank">https://mintuchel.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-kahn-%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC</a>.</p>
