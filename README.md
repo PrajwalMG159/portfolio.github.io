@@ -112,7 +112,7 @@ Figure 3: Breadth-First Search (BFS) <a href="#ref3">[3]</a>
 
 ### Depth-First Search (DFS)
 ![](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/assets/DFS.png)
-<p style="text-align: center; font-style: italic;">
+<p style="font-style: italic;">
 Figure 4: Depth-First Search (BFS) <a href="#ref4">[4]</a>
 </p>
 - **Time Complexity:** O(V + E), where V is the number of vertices and E is the number of edges in the graph.
