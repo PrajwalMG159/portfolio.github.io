@@ -88,7 +88,7 @@ The ever-evolving landscape of social networking services necessitates continual
 ### Breadth-First Search (BFS)
 
 ![](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/assets/bfs.jpg)
-<p style="width: 40%; margin: 0 auto; font-style: italic;">
+<p style="margin-left: 150px; font-style: italic;">
 Figure 3: Breadth-First Search (BFS) <a href="#ref3">[3]</a>
 </p>
 
