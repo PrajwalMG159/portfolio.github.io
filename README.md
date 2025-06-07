@@ -12,7 +12,7 @@
 <dt>Course Instructor</dt>
 <dd>Prakash Hegade</dd>
 <dt>University</dt>
-<dd>KLE Technological University</dd>
+<dd>KLE Technological University, Hubballi</dd>
 <dt>Portfolio Domain / Topic</dt>
 <dd>LinkedIn</dd>
 </dl>
