@@ -88,7 +88,7 @@ The ever-evolving landscape of social networking services necessitates continual
 ### Breadth-First Search (BFS)
 
 ![](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/assets/bfs.jpg)
-<p style="text-align: center; font-style: italic;">
+<p style="width: 40%; margin: 0 auto; font-style: italic;">
 Figure 3: Breadth-First Search (BFS) <a href="#ref3">[3]</a>
 </p>
 
@@ -112,7 +112,7 @@ Figure 3: Breadth-First Search (BFS) <a href="#ref3">[3]</a>
 
 ### Depth-First Search (DFS)
 ![](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/assets/DFS.png)
-<p style="font-style: italic;">
+<p style="width: 20%; margin: 0 auto; font-style: italic;">
 Figure 4: Depth-First Search (BFS) <a href="#ref4">[4]</a>
 </p>
 - **Time Complexity:** O(V + E), where V is the number of vertices and E is the number of edges in the graph.
@@ -134,6 +134,9 @@ Figure 4: Depth-First Search (BFS) <a href="#ref4">[4]</a>
 ### Trie
 
 ![](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/assets/trie.png)
+<p style="width: 80%; margin: 0 auto; font-style: italic;">
+Figure 5: Trie Data Structure <a href="#ref5">[5]</a>
+</p>
 
 - **Time Complexity:**
   - Insertion: O(L), where L is the length of the word.
@@ -171,9 +174,11 @@ Figure 4: Depth-First Search (BFS) <a href="#ref4">[4]</a>
 <strong>Challenges:</strong> Ensuring timely updates to rankings, maintaining relevance and diversity of content.
 </p>
 
-### Dijkstra's Algorithm
+### 
 ![](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/assets/Dijkstra's.gif)
-
+<p style="width: 80%; margin: 0 auto; font-style: italic;">
+Figure 6: Dijkstra's Algorithm <a href="#ref6">[6]</a>
+</p>
 
 - **Time Complexity:** O(V^2) with a simple implementation, O(E + V log V) with a priority queue or Fibonacci heap, where V is the number of vertices and E is the number of edges.
 - **Space Complexity:** O(V + E), for storing the graph and additional structures like distance and priority queue.
@@ -191,7 +196,9 @@ Figure 4: Depth-First Search (BFS) <a href="#ref4">[4]</a>
 
 ### Hash Table
 ![](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/assets/Hashing.gif)
-
+<p style="width: 80%; margin: 0 auto; font-style: italic;">
+Figure 7: Hash Table <a href="#ref7">[7]</a>
+</p>
 - **Time Complexity:**
 
   - Insertion: O(1), for adding a user to a segment.
@@ -213,7 +220,9 @@ Figure 4: Depth-First Search (BFS) <a href="#ref4">[4]</a>
 ### PageRank (Graph Algorithm)
 
 ![](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/assets/Pagerank.gif)
-
+<p style="width: 80%; margin: 0 auto; font-style: italic;">
+Figure 8: PageRank Algorithm in Graphs <a href="#ref8">[8]</a>
+</p>
 - **Time Complexity:**
   - O(K * E) per iteration, where K is the number of iterations and E is the number of edges.
 - **Space Complexity:**
@@ -223,7 +232,9 @@ Figure 4: Depth-First Search (BFS) <a href="#ref4">[4]</a>
 
 ### Priority Queue (Max-Heap)
 ![](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/assets/Priority_Queue.gif)
-
+<p style="width: 80%; margin: 0 auto; font-style: italic;">
+Figure 9: Heap Data Structure <a href="#ref9">[9]</a>
+</p>
 - **Time Complexity:**
   - Insertion (O(log N))
   - Extraction (O(log N))
@@ -243,6 +254,10 @@ Figure 4: Depth-First Search (BFS) <a href="#ref4">[4]</a>
 
 ### Fenwick Tree (Binary Indexed Tree)
 ![](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/assets/Fenwick%20Tree.png)
+<p style="width: 80%; margin: 0 auto; font-style: italic;">
+Figure 10: Binary Indexed Tree (Fenwick Tree) <a href="#ref10">[10]</a>
+</p>
+
 - **Time Complexity:**
   - Update (Add engagement): O(log N)
   - Query (Get total engagement in range [L, R]): O(log N)
@@ -319,6 +334,10 @@ Privacy: Ensuring user data privacy and compliance with data protection regulati
 ## 12.Learning Recommendations (LinkedIn Learning)
 **Algorithm:** Directed Acyclic Graph (DAG), Topological Sort
 ![](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/assets/DAG_with_Topological_Sort.gif)
+<p style="width: 80%; margin: 0 auto; font-style: italic;">
+Figure 11: Kahn’s Algorithm for Topological Sort <a href="#ref11">[11]</a>
+</p>
+
 <p style="text-align: justify;">
 <strong>Description:</strong> LinkedIn Premium recommends personalized learning paths (e.g., "To become a Data Scientist, take these courses in order"). This requires modeling skill dependencies (e.g., "Learn Python before Machine Learning") as a DAG, topological sorting to generate a conflict-free course sequence.
 </p>
@@ -338,6 +357,22 @@ By linking theory to practice, this portfolio provides insights into choosing th
 
 ## References
 <p id="ref1">[1] LinkedIn. <a href="https://rockcontent.com/blog/what-is-linkedin/" target="_blank">https://rockcontent.com/blog/what-is-linkedin/</a>. Accessed June 7, 2025.</p>
+
 <p id="ref2">[2] Market Analysis of LinkedIn. <a href="https://www.slideteam.net/linkedin-competitive-analysis-report-business-marketing-using-linkedin-ppt-demonstration.html" target="_blank">https://www.slideteam.net/linkedin-competitive-analysis-report-business-marketing-using-linkedin-ppt-demonstration.html</a>. Accessed June 7, 2025.</p>
+
 <p id="ref3">[3] Breadth-First Search Traversal. <a href="https://www.freecodecamp.org/news/deep-dive-into-graph-traversals-227a90c6a261/" target="_blank">https://www.freecodecamp.org/news/deep-dive-into-graph-traversals-227a90c6a261/</a>. Accessed June 7, 2025.</p>
 <p id="ref4">[4] Depth-First Search Traversal. <a href="https://www.geeksforgeeks.org/dfs-traversal-of-a-tree-using-recursion/" target="_blank">https://www.geeksforgeeks.org/dfs-traversal-of-a-tree-using-recursion/</a>. Accessed June 7, 2025.</p>
+
+<p id="ref5">[5] Trie - A Tree-based Data Structure. <a href="https://www.polarsparc.com/xhtml/Trie-1.html" target="_blank">https://www.polarsparc.com/xhtml/Trie-1.html</a>. Accessed June 7, 2025.</p>
+
+<p id="ref6">[6] Graph Traversal Overview. <a href="https://blog.csdn.net/2301_81373791/article/details/144214160" target="_blank">https://blog.csdn.net/2301_81373791/article/details/144214160</a>. Accessed June 7, 2025.</p>
+
+<p id="ref7">[7] Hash Table. <a href="https://www.ilmuhacking.com/web-security/hashtable-collision-dos/" target="_blank">https://www.ilmuhacking.com/web-security/hashtable-collision-dos/</a>. Accessed June 7, 2025.</p>
+
+<p id="ref8">[8] PageRank Algorithm for Graph Databases. <a href="https://memgraph.com/blog/pagerank-algorithm-for-graph-databases" target="_blank">https://memgraph.com/blog/pagerank-algorithm-for-graph-databases</a>. Accessed June 7, 2025.</p>
+
+<p id="ref9">[9] Heap Data Structure Explained. <a href="https://tipsmake.com/heap-data-structure" target="_blank">https://tipsmake.com/heap-data-structure</a>. Accessed June 7, 2025.</p>
+
+<p id="ref10">[10] Binary Indexed Tree. <a href="https://www.enjoyalgorithms.com/blog/binary-indexed-tree" target="_blank">https://www.enjoyalgorithms.com/blog/binary-indexed-tree</a>. Accessed June 7, 2025.</p>
+
+<p id="ref11">[11] Kahn’s Algorithm for Topological Sort. <a href="https://mintuchel.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-kahn-%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC" target="_blank">https://mintuchel.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-kahn-%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC</a>. Accessed June 7, 2025.</p>
