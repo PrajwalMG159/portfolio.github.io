@@ -84,13 +84,13 @@ The ever-evolving landscape of social networking services necessitates continual
 <p style="text-align: justify;">
 <strong>Challenges:</strong> Managing a large, dynamic graph of user profiles and connections. Ensuring the privacy and security of user data while performing searches. Keeping the search results relevant and personalized based on the recruiter's preferences and job requirements.
 </p>
+  
+### Breadth-First Search (BFS)
 
 ![](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/assets/bfs.jpg)
 <p style="text-align: center; font-style: italic;">
 Figure 3: Breadth-First Search (BFS) <a href="#ref3">[3]</a>
 </p>
-  
-### Breadth-First Search (BFS)
 
 - **Time Complexity:** O(V + E), where V is the number of vertices and E is the number of edges in the graph.
 - **Space Complexity:** O(V), for storing the queue and the visited list.
@@ -112,7 +112,9 @@ Figure 3: Breadth-First Search (BFS) <a href="#ref3">[3]</a>
 
 ### Depth-First Search (DFS)
 ![](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/assets/DFS.png)
-
+<p style="text-align: center; font-style: italic;">
+Figure 4: Depth-First Search (BFS) <a href="#ref4">[4]</a>
+</p>
 - **Time Complexity:** O(V + E), where V is the number of vertices and E is the number of edges in the graph.
 - **Space Complexity:** O(V), for storing the recursion stack or iterative stack and the visited list.
 
@@ -337,4 +339,5 @@ By linking theory to practice, this portfolio provides insights into choosing th
 ## References
 <p id="ref1">[1] LinkedIn. <a href="https://rockcontent.com/blog/what-is-linkedin/" target="_blank">https://rockcontent.com/blog/what-is-linkedin/</a>. Accessed June 7, 2025.</p>
 <p id="ref2">[2] Market Analysis of LinkedIn. <a href="https://www.slideteam.net/linkedin-competitive-analysis-report-business-marketing-using-linkedin-ppt-demonstration.html" target="_blank">https://www.slideteam.net/linkedin-competitive-analysis-report-business-marketing-using-linkedin-ppt-demonstration.html</a>. Accessed June 7, 2025.</p>
-<p id="ref3">[3] Breadth-First Search Graph Traversal. <a href="https://www.freecodecamp.org/news/deep-dive-into-graph-traversals-227a90c6a261/" target="_blank">https://www.freecodecamp.org/news/deep-dive-into-graph-traversals-227a90c6a261/</a>. Accessed June 7, 2025.</p>
+<p id="ref3">[3] Breadth-First Search Traversal. <a href="https://www.freecodecamp.org/news/deep-dive-into-graph-traversals-227a90c6a261/" target="_blank">https://www.freecodecamp.org/news/deep-dive-into-graph-traversals-227a90c6a261/</a>. Accessed June 7, 2025.</p>
+<p id="ref4">[4] Depth-First Search Traversal. <a href="https://www.geeksforgeeks.org/dfs-traversal-of-a-tree-using-recursion/" target="_blank">https://www.geeksforgeeks.org/dfs-traversal-of-a-tree-using-recursion/</a>. Accessed June 7, 2025.</p>
