@@ -112,7 +112,7 @@ Figure 3: Breadth-First Search (BFS) <a href="#ref3">[3]</a>
 
 ### Depth-First Search (DFS)
 ![](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/assets/DFS.png)
-<p style="margin-left: 10px; font-style: italic;">
+<p style="margin-left: 5px; font-style: italic;">
 Figure 4: Depth-First Search (BFS) <a href="#ref4">[4]</a>
 </p>
 - **Time Complexity:** O(V + E), where V is the number of vertices and E is the number of edges in the graph.
@@ -176,7 +176,7 @@ Figure 5: Trie Data Structure <a href="#ref5">[5]</a>
 
 ### Dijkstra's Algorithm
 ![](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/assets/Dijkstra's.gif)
-<p style="margin-left: 150px; font-style: italic;">
+<p style="margin-left: 155px; font-style: italic;">
 Figure 6: Dijkstra's Algorithm <a href="#ref6">[6]</a>
 </p>
 
@@ -220,7 +220,7 @@ Figure 7: Hash Table <a href="#ref7">[7]</a>
 ### PageRank (Graph Algorithm)
 
 ![](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/assets/Pagerank.gif)
-<p style="margin-left: 150px; font-style: italic;">
+<p style="margin-left: 145px; font-style: italic;">
 Figure 8: PageRank Algorithm in Graphs <a href="#ref8">[8]</a>
 </p>
 - **Time Complexity:**
@@ -232,7 +232,7 @@ Figure 8: PageRank Algorithm in Graphs <a href="#ref8">[8]</a>
 
 ### Priority Queue (Max-Heap)
 ![](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/assets/Priority_Queue.gif)
-<p style="margin-left: 150px; font-style: italic;">
+<p style="margin-left: 145px; font-style: italic;">
 Figure 9: Heap Data Structure <a href="#ref9">[9]</a>
 </p>
 - **Time Complexity:**
@@ -254,7 +254,7 @@ Figure 9: Heap Data Structure <a href="#ref9">[9]</a>
 
 ### Fenwick Tree (Binary Indexed Tree)
 ![](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/assets/Fenwick%20Tree.png)
-<p style="margin-left: 150px; font-style: italic;">
+<p style="margin-left: 145px; font-style: italic;">
 Figure 10: Binary Indexed Tree (Fenwick Tree) <a href="#ref10">[10]</a>
 </p>
 
