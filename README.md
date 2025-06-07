@@ -86,6 +86,9 @@ The ever-evolving landscape of social networking services necessitates continual
 </p>
 
 ![](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/assets/bfs.jpg)
+<p style="text-align: center; font-style: italic;">
+Figure 3: Breadth-First Search (BFS) <a href="#ref3">[3]</a>
+</p>
   
 ### Breadth-First Search (BFS)
 
@@ -334,3 +337,4 @@ By linking theory to practice, this portfolio provides insights into choosing th
 ## References
 <p id="ref1">[1] LinkedIn. <a href="https://rockcontent.com/blog/what-is-linkedin/" target="_blank">https://rockcontent.com/blog/what-is-linkedin/</a>. Accessed June 7, 2025.</p>
 <p id="ref2">[2] Market Analysis of LinkedIn. <a href="https://www.slideteam.net/linkedin-competitive-analysis-report-business-marketing-using-linkedin-ppt-demonstration.html" target="_blank">https://www.slideteam.net/linkedin-competitive-analysis-report-business-marketing-using-linkedin-ppt-demonstration.html</a>. Accessed June 7, 2025.</p>
+<p id="ref3">[3] Breadth-First Search Graph Traversal. <a href="https://www.freecodecamp.org/news/deep-dive-into-graph-traversals-227a90c6a261/" target="_blank">https://www.freecodecamp.org/news/deep-dive-into-graph-traversals-227a90c6a261/</a>. Accessed June 7, 2025.</p>
