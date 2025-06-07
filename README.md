@@ -341,6 +341,11 @@ Figure 11: Kahn’s Algorithm for Topological Sort <a href="#ref11">[11]</a>
 <p style="text-align: justify;">
 <strong>Challenges:</strong> The key challenges include managing dynamic updates as new courses and skills reshape the DAG, balancing personalization between breadth for exploration and depth for mastery, and addressing the cold-start problem where new users begin without skill or engagement data.</p>
 
+### Topological sort on a Directed Acyclic Graph (DAG) using Kahn's algorithm (BFS-based).
+- **Time Complexity:** O(V + E), where V is the number of nodes (courses/skills) and E is the number of edges (prerequisites/dependencies).
+- **Space Complexity:** O(V + E)
+
+
 [Here is my code implementation](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/codes/DAG_and_Topological_Sort.cpp).
 
 
