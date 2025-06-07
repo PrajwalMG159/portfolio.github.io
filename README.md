@@ -53,7 +53,9 @@ This portfolio showcases how algorithms can be applied within LinkedIn’s ecosy
 
 ***Market Analysis of Linkedin***
 ![](https://raw.githubusercontent.com/PrajwalMG159/portfolio.github.io/refs/heads/main/assets/market_analysis.jpg)
-
+<p style="text-align: center; font-style: italic;">
+Figure 2: Market Analysis of LinkedIn <a href="#ref2">[2]</a>
+</p>
 
 ## Need of Portfolio
 <p style="text-align: justify;">
@@ -331,3 +333,4 @@ By linking theory to practice, this portfolio provides insights into choosing th
 
 ## References
 <p id="ref1">[1] LinkedIn. <a href="https://rockcontent.com/blog/what-is-linkedin/" target="_blank">https://rockcontent.com/blog/what-is-linkedin/</a>. Accessed June 7, 2025.</p>
+<p id="ref2">[2] Market Analysis of LinkedIn. <a href="https://www.slideteam.net/linkedin-competitive-analysis-report-business-marketing-using-linkedin-ppt-demonstration.html" target="_blank">https://www.slideteam.net/linkedin-competitive-analysis-report-business-marketing-using-linkedin-ppt-demonstration.html</a>. Accessed June 7, 2025.</p>
